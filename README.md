@@ -102,9 +102,20 @@ Please use the **Issues** tab to report bugs.
 Suggestions are always welcome.
 
 ---
+
 ## 📜 Changelog
 
 See [CHANGELOG.md](CHANGELOG.md) for the full release history.
+
+---
+
+## 📚 Documentation
+
+Installation Guide
+
+FAQ
+
+More documentation will be added as Nightwatch Terminal evolves.
 
 ---
 
