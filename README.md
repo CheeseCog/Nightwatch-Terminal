@@ -6,7 +6,16 @@ Interactive Obsidian Companion
 for Welcome to the Game 3
 
 ═══════════════════════════════════════
+## Contents
 
+- About
+- Features
+- Screenshots
+- Installation
+- Requirements
+- FAQ
+- Changelog
+- Support
 ---
 
 ## 📖 About
