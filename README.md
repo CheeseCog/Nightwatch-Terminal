@@ -102,6 +102,11 @@ Please use the **Issues** tab to report bugs.
 Suggestions are always welcome.
 
 ---
+## 📜 Changelog
+
+See [CHANGELOG.md](CHANGELOG.md) for the full release history.
+
+---
 
 ## 📜 License
 
